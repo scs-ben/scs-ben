@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @scs-ben
+- 👀 I’m interested in PHP development with some occasional tinkering in other things like Python or C or (Lord forbid) .NET
+- 📫 You can reach me at breese AT scsgrandrapids DOT com
